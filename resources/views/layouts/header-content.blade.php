@@ -61,6 +61,7 @@
 </li>
 --}}
 <li> <a href="/contact">Contact</a></li>
+<li> <a href="/login">Login</a></li>
 </ul>
 <a href="/sponsor" class="btn btn-success">Donate Now</a>
 </div>

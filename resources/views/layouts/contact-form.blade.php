@@ -18,7 +18,8 @@
 <div class="contact-form">
 <h3>Drop us a line</h3>
 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-<form action="https://html.dynamiclayers.net/dl/charitify/contact.php" method="post" id="ajax_form" class="form-horizontal">
+<form action="/save-messages" method="post"  class="form-horizontal">
+@csrf
 <div class="form-group colum-row row">
 <div class="col-sm-6">
 <input type="text" id="name" name="name" class="form-control" placeholder="Name" required>
@@ -34,10 +35,10 @@
 </div>
 <div class="form-group row">
 <div class="col-md-12">
-<button id="submit" class="default-btn" type="submit">Send Message</button>
+<button class="btn btn-success" type="submit">Send Message</button>
 </div>
 </div>
-<div id="form-messages" class="alert" role="alert"></div>
+
 </form>
 </div>
 </div>

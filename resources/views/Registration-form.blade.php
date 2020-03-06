@@ -17,7 +17,7 @@
 <h2>Registration</h2>
 <p>Lorem Ipsum is simply text of the industry. </p>
 <ol class="breadcrumb">
-<li class="breadcrumb-item"><a href="index.html">Home</a></li>
+<li class="breadcrumb-item"><a href="/home">Home</a></li>
 <li class="breadcrumb-item active">Registration Form</li>
 </ol>
 </div>
@@ -32,9 +32,7 @@
 <div class="hidden-print">
 
     <div class="">
-        <a href="javascript:window.print()" class="btn btn-dark waves-effect waves-light"><i class="fa fa-print"></i></a>
-        {{--<a href="#" class="btn btn-primary waves-effect waves-light">Submit</a>--}}
-        <a href="./directory/yourfile.pdf" download="newfilename">Download the pdf</a>
+        <a href="{{asset('forms/request.docx')}}" download="Registration">Download Registration Form</a>
     </div>
     <div class="clearfix"></div>
 </div>
