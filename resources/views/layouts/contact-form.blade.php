@@ -18,7 +18,7 @@
 <div class="contact-form">
 <h3>Drop us a line</h3>
 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-<form action="/save-messages" method="post"  class="form-horizontal">
+<form action="/save-messages" method="get"  class="form-horizontal">
 @csrf
 <div class="form-group colum-row row">
 <div class="col-sm-6">

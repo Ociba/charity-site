@@ -72,9 +72,8 @@
                       <th class="th-sm">{{ $mes->name }}</th>
                       <th class="th-sm">{{ $mes->email }}</th>
                       <th class="th-sm">{{ $mes->message}}</th>
-                      <th class="th-sm">
-                      {{--<a href="/edit-news/" class="mr-2"><i class="fa fa-edit" title="edit"></i></a>--}}
-                      <a href="/delete-news/" type="submit" class="mr-2"><i class="icon fas fa-check" title="mark as read"></i></a>
+                      <th class="th-sm"> 
+                      <a href="/mark-as-read/{{$mes->id}}" type="submit" class="mr-2"><i class="icon fas fa-check" title="mark as read"></i></a>
                       </th>
                   </tr>
                   @endforeach

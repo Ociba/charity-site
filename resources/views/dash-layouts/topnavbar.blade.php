@@ -18,7 +18,7 @@
           <a href="#" class="dropdown-item">
             <!-- Message Start -->
             <div class="media">
-              <img src="dist/img/user1-128x128.jpg" alt="User Avatar" class="img-size-50 mr-3 img-circle">
+              <img src="dashboard/dist/img/user1-128x128.jpg" alt="User Avatar" class="img-size-50 mr-3 img-circle">
               <div class="media-body">
                 <h3 class="dropdown-item-title">
                   Brad Diesel
@@ -34,7 +34,7 @@
           <a href="#" class="dropdown-item">
             <!-- Message Start -->
             <div class="media">
-              <img src="dist/img/user8-128x128.jpg" alt="User Avatar" class="img-size-50 img-circle mr-3">
+              <img src="dashboard/dist/img/user8-128x128.jpg" alt="User Avatar" class="img-size-50 img-circle mr-3">
               <div class="media-body">
                 <h3 class="dropdown-item-title">
                   John Pierce
@@ -94,11 +94,11 @@
         </div>
       </li>
       <!-- Logout Dropdown Menu --> 
-      {{--
+      
       <li class="nav-item dropdown">
         <a href="javascript:;" class="user-profile dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
-            {{ auth()->user()->name }}
-            <span class=" fa fa-angle-down"></span>
+           {{--{{ auth()->user()->name }}--}}
+            {{--<span class=" fa fa-angle-down"></span>--}}
             
         </a>
         <ul class="dropdown-menu dropdown-usermenu">
@@ -114,7 +114,7 @@
             </li>
         </ul>
         </li> 
-        --}}
+        
       <li class="nav-item">
         <a class="nav-link" data-widget="control-sidebar" data-slide="true" href="#"><i
             class="fas fa-th-large"></i></a>

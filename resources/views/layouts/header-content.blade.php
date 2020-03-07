@@ -30,7 +30,7 @@
 </div>
 <div class="col-sm-8 text-right">
 <ul id="mainmenu" class="nav navbar-nav nav-menu">
-<li class="active"> <a href="/home">Home</a>
+<li class="active"> <a href="/">Home</a>
 </li>
 <li><a href="/about">About</a></li>
 <li><a href="/category">Children Category</a></li>
@@ -61,7 +61,7 @@
 </li>
 --}}
 <li> <a href="/contact">Contact</a></li>
-<li> <a href="/login">Login</a></li>
+<li> <a href="{{ route('login') }}">Login</a></li>
 </ul>
 <a href="/sponsor" class="btn btn-success">Donate Now</a>
 </div>

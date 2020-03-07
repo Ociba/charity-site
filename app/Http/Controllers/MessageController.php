@@ -3,8 +3,11 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Hash;
 use App\Message;
-
+use App\User;
+use App\church_user;
+use Illuminate\Support\Facades\Auth;
 class MessageController extends Controller
 {
     //
@@ -43,7 +46,7 @@ class MessageController extends Controller
         Message::where('id',$id)->update(array(
             'status'=>'read'
         ));
-        return Redirect()->back()->withErrors("Message has been marked successfully");
+        return Redirect()->back();
      }
      public function deleteMessages($id){
         Message::where('id',$id)->update(array(
@@ -55,13 +58,14 @@ class MessageController extends Controller
         return view('dashboardpages.change-password');
     }
      public function store_users_password(Request $request) {
+         
         $get_users_current_password = User::find(Auth::user()->id)->password;
         $current_password = $request->current_password;
         if ($request->new_password == $request->confirm_password) {
             if (Hash::check($current_password, $get_users_current_password)) {
                 User::where("id", Auth::user()->id)->update(array('password' => Hash::make($request->new_password)));
                 Auth::logout();
-                return Redirect()->back()->with('message', 'Password was Updated successfully');
+                return redirect('/login')->withErrors('Password has been changed successfully, Login with New password');
             } else {
                 return Redirect()->back()->withInput()->withErrors("Incorrect password has been supplied");
             }

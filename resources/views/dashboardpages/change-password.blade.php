@@ -53,7 +53,8 @@
               </div>
               <!-- /.card-header -->
               <!-- form start -->
-              <form class="form-horizontal mt-3">
+              <form class="form-horizontal mt-3" action="/save-change-password" method="get">
+              @csrf
                 <div class="card-body">
                   <div class="form-group row">
                     <label for="inputEmail3" class="col-sm-2 col-form-label">Current password</label>
