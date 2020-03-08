@@ -5,8 +5,8 @@
 <div class="col-md-4 col-sm-6 xs-padding">
 <div class="promo-content">
 <img src="img/icon-1.png" alt="prmo icon">
-<h3>Make Donation</h3>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+<h3>Donation</h3>
+<p>House of support seeks for your support for needy children</p>
 {{--<a href="#">Read More</a>--}}
 </div>
 </div>
@@ -14,7 +14,7 @@
 <div class="promo-content">
 <img src="img/icon-2.png" alt="prmo icon">
 <h3>Fundrising</h3>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+<p>House of supoort is fundrises to support children </p>
 {{--<a href="#">Read More</a>--}}
 </div>
 </div>
@@ -22,7 +22,7 @@
 <div class="promo-content">
 <img src="img/icon-3.png" alt="prmo icon">
 <h3>Become A Volunteer</h3>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+<p>House of support welcomes all welwishers/Volunteers to aid the Organization</p>
 {{--<a href="#">Read More</a>--}}
 </div>
 </div>

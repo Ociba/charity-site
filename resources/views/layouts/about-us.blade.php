@@ -3,7 +3,7 @@
 <div class="row about-wrap">
 <div class="col-md-6 xs-padding">
 <div class="about-image">
-<img src="img/about.jpg" alt="about image">
+<img src="img/about.jpeg" alt="about image">
 </div>
 </div>
 <div class="col-md-6 xs-padding">

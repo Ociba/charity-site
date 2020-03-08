@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
     @include('dash-layouts.stylecss')
-  <title>Charitify || Fundraising NGO</title>
+  <title>House of Support || Children's Ministry</title>
 </head>
 <body class="hold-transition sidebar-mini layout-fixed layout-navbar-fixed layout-footer-fixed">
 <div class="wrapper">

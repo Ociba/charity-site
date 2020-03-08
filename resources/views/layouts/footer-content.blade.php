@@ -4,7 +4,7 @@
 <div class="col-md-4 xs-padding">
 <div class="widget-content">
 <img src="img/logo-light.png" alt="logo">
-<p>Lorem Ipsum is simply dummy printing and industry. It has survived not only five centuries, but also the leap electronic type essentially unchanged.</p>
+<p>Believe in God,Trust in Yourself that you can make it,Be honest to yourself and Others,Generate and share ideas,Utilize your time</p>
 <ul class="social-icon">
 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -18,21 +18,21 @@
 <div class="widget-content">
 <h3>Recent Campaigns</h3>
 <ul class="widget-link">
-<li><a href="#">First charity activity of this summer. <span>-1 Year Ago</span></a></li>
-<li><a href="#">Big charity: build school for poor children. <span>-2 Year Ago</span></a></li>
-<li><a href="#">Clean-water system for rural poor. <span>-2 Year Ago</span></a></li>
-<li><a href="#">Nepal earthqueak donation campaigns. <span>-3 Year Ago</span></a></li>
+<li><a href="#">Education for all<span>-10 Year Ago</span></a></li>
+<li><a href="#">Gender Equality in Education<span>-5 Year Ago</span></a></li>
+<li><a href="#">Discouraging early marriages<span>-10 Year Ago</span></a></li>
+<li><a href="#">Fight against HIV/AIDS <span>-10 Year Ago</span></a></li>
 </ul>
 </div>
 </div>
 <div class="col-md-4 xs-padding">
 <div class="widget-content">
-<h3>Charitify Location</h3>
+<h3>OVC House of Support Childrens Ministry Location</h3>
 <ul class="address">
-<li><i class="ti-email"></i> <a href="https://html.dynamiclayers.net/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="e3aa8d858ca3ba8c9691a78c8e828a8dcd808c8e">[email&#160;protected]</a></li>
-<li><i class="ti-mobile"></i> +256751536087 | +256788139620</li>
-<li><i class="ti-world"></i> Www.YourWebsite.com</li>
-<li><i class="ti-location-pin"></i> 60 Grand Avenue. Central New Road 0708, USA</li>
+<li><a href="#"><i class="ti-email"></i>houseofsupportchildrensministry@gmail.com</a></li>
+<li><i class="ti-mobile"></i> +256780547453 | +256702240840 | +256705481237</li>
+<li><i class="ti-world"></i> charity.goproug.com</li>
+<li><i class="ti-location-pin"></i> Head Office<br> Makerere Kikoni Road<br>Near UCC church<br>Kampala Uganda</li>
 </ul>
 </div>
 </div>

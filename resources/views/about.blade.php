@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="">
 <meta name="author" content="DynamicLayers">
-<title>Charitify || Fundraising NGO</title>
+<title>House of Support || Children's Ministry</title>
 @include('layouts.css')
 </head>
 <body>
@@ -15,6 +15,7 @@
 @include('layouts.about-header-image')
 @include('layouts.about-us')
 {{--@include('layouts.volunteers')--}}
+@include('layouts.team')
 @include('layouts.count')
 @include('layouts.footer-content')
 @include('layouts.footer')

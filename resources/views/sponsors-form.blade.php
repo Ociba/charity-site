@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="">
 <meta name="author" content="DynamicLayers">
-<title>Charitify || Fundraising NGO</title>
+<title>House of Support|| Children's Ministry</title>
 @include('layouts.css')
 </head>
 <body>
@@ -15,7 +15,7 @@
 <div class="container">
 <div class="page-content">
 <h2>Sponsor</h2>
-<p>Lorem Ipsum is simply text of the industry. </p>
+
 <ol class="breadcrumb">
 <li class="breadcrumb-item"><a href="/">Home</a></li>
 <li class="breadcrumb-item active">Sponsor Form</li>

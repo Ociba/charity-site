@@ -3,21 +3,20 @@
 <div class="container">
 <div class="row contact-wrap">
 <div class="col-md-6 xs-padding">
-<div class="contact-info">
+<div class="contact-info" style="list-style-type:none;">
 <h3>Get in touch</h3>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Main has survived not only five centuries.</p>
-<ul>
-<li><i class="ti-location-pin"></i> 315 West 33rd Street New York, NY 10001</li>
-<li><i class="ti-mobile"></i> +1 212 425 8617, +1 212 425 8533</li>
-<li><i class="ti-email"></i> <a href="https://html.dynamiclayers.net/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="ecb583999e89818d8580ac8f83819c8d8295828d8189c28f8381">[email&#160;protected]</a></li>
+<p>Please you can visit us in our office through the Address given below for more information.</p>
+<li><i class="ti-time"></i>  Available From Monday-Saturday 8:00AM-5:00pm</li>
+<li><i class="ti-location-pin"></i>  Head Office,Makerere Kikoni Road,Near UCC church Kampala Uganda</li>
+<li><i class="ti-mobile"></i>  +256780547453 | +256702240840 | +256705481237</li>
+<li><i class="ti-email"></i>  houseofsupportchildrensministry@gmail.com</li>
 </ul>
 </div>
 </div>
 <div class="col-md-6 xs-padding">
 <div class="contact-form">
-<h3>Drop us a line</h3>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+<h3>Leave Comment or Message</h3>
+<p>We appreciate your Effort to interact with us</p>
 <form action="/save-messages" method="get"  class="form-horizontal">
 @csrf
 <div class="form-group colum-row row">

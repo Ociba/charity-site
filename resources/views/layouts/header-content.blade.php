@@ -4,8 +4,8 @@
 <div class="top-content-wrap row">
 <div class="col-sm-8">
 <ul class="left-info">
-<li><a href="#"><i class="ti-email"></i><span class="__cf_email__" data-cfemail="d990b7bfb69980b6acab9db6b4b8b0b7f7bab6b4">[email&#160;protected]</span></a></li>
-<li><a href="#"><i class="ti-mobile"></i>+256751536087 | +256788139620</a></li>
+<li><a href="#"><i class="ti-email"></i> houseofsupportchildrensministry@gmail.com</a></li>
+<li><a href="#"><i class="ti-mobile"></i>+256780547453 | +256702240840 | +256705481237</a></li>
 </ul>
 </div>
 <div class="col-sm-4 d-none d-md-block">
