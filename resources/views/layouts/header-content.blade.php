@@ -25,7 +25,7 @@
 <div class="bottom-content-wrap row">
 <div class="col-sm-4">
 <div class="site-branding">
-<a href="#"><img src="img/logo.png" alt="Brand"></a>
+<a href="#"><img src="img/logo2.png" alt="Brand"></a>
 </div>
 </div>
 <div class="col-sm-8 text-right">
@@ -34,6 +34,7 @@
 </li>
 <li><a href="/about">About</a></li>
 <li><a href="/category">Children Category</a></li>
+<li><a href="/testimony">Testimony</a></li>
 <li><a href="#">Forms</a>
 <ul>
 <li><a href="/registration">Registration Form</a></li>

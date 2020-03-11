@@ -18,7 +18,7 @@
 </div>
 <div class="causes-details">
 <h3>Culture,Religion,Nature and Morals</h3>
-<p>House of support always looks forward to upbringing a child of a good foundation</p>
+<p>House of support always looks forward to upbringing a child of a good foundation and brighten his or her future</p>
 {{--
 <div class="donation-box">
 <p><i class="ti-bar-chart"></i>Goal: $450000</p>
@@ -41,7 +41,7 @@
 </div>
 <div class="causes-details">
 <h3>Culture,Religion,Nature and Morals</h3>
-<p>Basic education based on handson</p>
+<p>Basic education based on handson to fit the current curriculum and standards of living. </p>
 {{--
 <div class="donation-box">
 <p><i class="ti-bar-chart"></i>Goal: $450000</p>
@@ -64,7 +64,7 @@
 </div>
 <div class="causes-details">
 <h3>Culture,Religion,Nature and Morals</h3>
-<p>Basic education backed up by practicals</p>
+<p>Basic education backed up by practicals to create self employment amongst children.</p>
 {{--
 <div class="donation-box">
 <p><i class="ti-bar-chart"></i>Goal: $450000</p>

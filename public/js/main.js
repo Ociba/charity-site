@@ -134,7 +134,7 @@
 	$('#testimonial-carousel').owlCarousel({
         loop: true,
         margin: 15,
-        autoplay: true,
+        autoplay: false,
         smartSpeed: 500,
         items: 1,
         nav: false,

@@ -14,6 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () { return view('home');});
+Route::get('/testimony', function(){ return view('testimony');});
 Route::get('/about', function () { return view('about');});
 Route::get('/category', function () { return view('children-category');});
 Route::get('/registration', function () { return view('Registration-form');});

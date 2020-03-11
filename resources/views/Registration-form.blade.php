@@ -33,6 +33,7 @@
     <div class="">
         <a href="{{asset('forms/request.docx')}}" download="Registration">Download Registration Form</a>
     </div>
+    <div class=""><strong>For Donation Or Any Assistance use official mobile money number 0705481237 in the names of Muyama Zahara Sarah</strong></div>
     <div class="clearfix"></div>
 </div>
 </div>

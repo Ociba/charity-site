@@ -5,7 +5,7 @@
 <div class="profile-wrap">
 <img class="profile" src="img/12.jpeg" alt="profile">
 <h3>Mrs. Muyama Zahara Sarah <span>CEO & Founder of OVC,House of support.</span></h3>
-<p>As a founder, the motivation came from my background as not being educated due to several circumstances in the family and financial muscles Hence having a Revelation,one day that i would atleast support a child and he/she attains education so that what i missed i can view it from that child and also helping more who are going through what i went through thus urguing welwishers to join the cause.</p>
+<p class="text-justify">As a founder, the motivation came from my background as not being educated due to several circumstances in the family and financial muscles Hence having a Revelation,one day that i would atleast support a child and he/she attains education so that what i missed i can view it from that child and also helping more who are going through what i went through thus urguing welwishers to join the cause.</p>
 {{--<img src="img/sign.png" alt="sign">--}}
 </div>
 </div>

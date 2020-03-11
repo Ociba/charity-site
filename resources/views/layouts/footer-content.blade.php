@@ -3,7 +3,7 @@
 <div class="widget-wrap row">
 <div class="col-md-4 xs-padding">
 <div class="widget-content">
-<img src="img/logo-light.png" alt="logo">
+<img src="img/logo2.png" alt="logo">
 <p>Believe in God,Trust in Yourself that you can make it,Be honest to yourself and Others,Generate and share ideas,Utilize your time</p>
 <ul class="social-icon">
 <li><a href="#"><i class="fa fa-facebook"></i></a></li>

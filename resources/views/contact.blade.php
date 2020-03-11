@@ -8,7 +8,7 @@
 @include('layouts.css')
 </head>
 <body>
-@include('layouts.preloader')
+
 @include('layouts.header-content')
 <div class="header-height"></div>
 <div class="pager-header">

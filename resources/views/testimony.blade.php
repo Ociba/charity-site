@@ -16,14 +16,22 @@
 </head>
 <body>
 
+
 @include('layouts.header-content')
 
 <div class="header-height"></div>
-@include('layouts.header-slider')
-@include('layouts.activity')
-@include('layouts.study-levels')
-@include('layouts.background')
-@include('layouts.count')
+<div class="pager-header">
+<div class="container">
+<div class="page-content">
+<h2>About Us</h2>
+<ol class="breadcrumb">
+<li class="breadcrumb-item"><a href="/">Home</a></li>
+<li class="breadcrumb-item active">Testimony</li>
+</ol>
+</div>
+</div>
+</div>
+@include('layouts.testimony')
 @include('layouts.footer-content')
 @include('layouts.footer')
 <a data-scroll href="#header" id="scroll-to-top"><i class="arrow_up"></i></a>

@@ -36,6 +36,7 @@
         <a href="{{asset('forms/sponsors.docx')}}" download="sponsors">Download Sponsors Form</a>
     </div>
     </div>
+    <div class=""><strong>For Donation Or Any Assistance use official mobile money number 0705481237 in the names of Muyama Zahara Sarah</strong></div>
     <div class="clearfix"></div>
 </div>
 </div>
